@@ -1,3 +1,5 @@
+Olá, me chamo Maurício, sou formado em análise e desenvolvimento de sistemas e Tenho o firme objetivo de me tornar um programador excepcional.
+
 ![MauricioBSV GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioBSV&show_icons=true&theme=dracula)
 
 
